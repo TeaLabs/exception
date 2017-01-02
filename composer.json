@@ -1,9 +1,9 @@
 {
     "name": "tea/exception",
-    "description": "A collection of common Exceptions.",
+    "description": "A collection of common Exceptions and Error Classes.",
     "homepage": "https://github.com/TeaLabs/exception",
     "keywords": [
-        "exception", "utility", "helpers", "utils", "tea"
+        "exception", "error", "utility", "helpers", "utils", "tea"
     ],
     "license": "MIT",
     "authors": [
