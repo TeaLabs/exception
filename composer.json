@@ -1,7 +1,7 @@
 {
-    "name": "tea/exception",
+    "name": "tea/exceptions",
     "description": "A collection of common Exceptions and Error Classes.",
-    "homepage": "https://github.com/TeaLabs/exception",
+    "homepage": "https://github.com/TeaLabs/exceptions",
     "keywords": [
         "exception", "error", "utility", "helpers", "utils", "tea"
     ],
@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/TeaLabs/exception/issues",
-        "source": "https://github.com/TeaLabs/exception"
+        "issues": "https://github.com/TeaLabs/exceptions/issues",
+        "source": "https://github.com/TeaLabs/exceptions"
     },
     "require": {
         "php": ">=5.4",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tea\\Exception\\": "src/"
+            "Tea\\Exceptions\\": "src/"
         }
     },
     "extra": {
