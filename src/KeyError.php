@@ -2,7 +2,7 @@
 namespace Tea\Exceptions;
 
 use Exception;
-use Tea\Exceptions\Helpers;
+use Tea\Exceptions\Utils\Helpers;
 
 class KeyError extends Exception
 {
